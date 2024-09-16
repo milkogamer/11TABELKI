@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(190, 187, 183);
+    margin: 0;
+  
+}
+
+th,tr,td{
+    border: 3px solid black;
+    border-radius: 10px;
+    border-collapse: collapse;
+}
+table{
+    width: 800px;
+}
+td:hover {
+    background-color: rgb(126, 126, 198);
+}
+
+th:hover {
+    background-color: rgb(148, 232, 126);
+}
